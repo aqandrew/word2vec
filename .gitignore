@@ -1,0 +1,9 @@
+# Executables
+*.exe
+*.out
+
+# Large files
+vectors.txt
+vectors.vin
+text8
+text8.txt
